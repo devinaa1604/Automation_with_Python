@@ -4,7 +4,7 @@
 
 ![Revenue](Images/revenue-per-lead.jpg)
 
-Created a Python script for analyzing the financial records of a pseudo company. Financial data set is in file: [budget_data.csv] (PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. 
+Created a Python script for analyzing the financial records of a pseudo company. Financial data set is in file: ![budget_data.csv] (PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. 
 
 This Jupyter Notebook creates a Python script that analyzes the records to calculate each of the following:
 
